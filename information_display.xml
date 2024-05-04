@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textViewPays"
+        android:layout_width="111dp"
+        android:layout_height="20dp"
+        android:text="Pays"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="100dp"
+        android:layout_height="99dp"
+        tools:layout_editor_absoluteX="299dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <TextView
+        android:id="@+id/textViewVilles"
+        android:layout_width="111dp"
+        android:layout_height="18dp"
+        android:text="Villes"
+        tools:layout_editor_absoluteX="172dp"
+        tools:layout_editor_absoluteY="18dp" />
+
+    <TextView
+        android:id="@+id/textViewMonuments"
+        android:layout_width="111dp"
+        android:layout_height="54dp"
+        android:text="Monuments"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="55dp" />
+
+    <TextView
+        android:id="@+id/textViewAvis"
+        android:layout_width="110dp"
+        android:layout_height="54dp"
+        android:text="Avis"
+        tools:layout_editor_absoluteX="173dp"
+        tools:layout_editor_absoluteY="55dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

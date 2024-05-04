@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "490261609102",
+    "project_id": "trip-f2c86",
+    "storage_bucket": "trip-f2c86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490261609102:android:41b166b225fc1c4a94e7df",
+        "android_client_info": {
+          "package_name": "com.example.testform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1--k1vwX237gRPKWGbwhnJH2XUCi661U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
